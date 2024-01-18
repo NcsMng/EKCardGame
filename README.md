@@ -1,6 +1,2 @@
 # EKCardGame
-Exploding Kittens is a turn based card game. The goal is to
-eliminate the other members by making them draw exploding
-kitten cards making them go BOOM!
-It is developed in a way that it allows future expansion to be
-seamlessly introduced.
+Exploding Kittens is a strategic, turn-based card game where the objective is to outmaneuver opponents by forcing them to draw exploding kitten cards, leading to an explosive "BOOM!" The game is thoughtfully designed to facilitate seamless integration of future expansions.
